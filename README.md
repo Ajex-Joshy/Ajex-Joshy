@@ -1,4 +1,4 @@
-# Hola, I'm Ajex Joshy 👋  
+# Hello, I'm Ajex Joshy 👋  
 ### MERN-Wired | Code Craftsman | Building the Future, One Commit at a Time
 
 ---
